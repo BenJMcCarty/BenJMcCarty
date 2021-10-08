@@ -15,6 +15,8 @@ Along every step of my journey, the stories I created and told entertained, educ
 
 ## What I Do
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 I have a passion for learning and leveraging data and systems for insights and decision-making.
 
 * Obtaining and cleaning data 
@@ -22,9 +24,8 @@ I have a passion for learning and leveraging data and systems for insights and d
 * Developing and training machine learning models to understand the *whys* and *hows* behind the data
 * Suggesting improvements and changes to adapt to the stories hidden in the data
 
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## My Stats:
 
-My Stats:
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenJMcCarty&show_icons=true&theme=radical)](https://github.com/BenJMcCarty/github-readme-stats)
 
 - 🔨 I’m currently working on:
