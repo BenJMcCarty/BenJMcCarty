@@ -2,8 +2,6 @@
 
 Hello! I'm Ben, a storyteller-turned-scientist at the intersection of data, systems, and people.
 
-## What's a Storyteller-Turned-Scientist?
-
 My background is in telling stories:
 * 🛶 Helping my family run whitewater rafting tours
 * 📚 Finding books as a librarian
